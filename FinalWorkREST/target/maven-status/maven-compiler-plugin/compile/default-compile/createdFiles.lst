@@ -1,0 +1,8 @@
+rest\ImageResource.class
+rest\ProfessorResource.class
+security\AuthenticationFilter.class
+util\FinalWorkAPI.class
+security\Secured.class
+rest\StudentResource.class
+security\Role.class
+security\AuthenticationEndpoint.class

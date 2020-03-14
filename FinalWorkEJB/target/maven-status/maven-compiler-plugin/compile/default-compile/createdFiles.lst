@@ -1,0 +1,8 @@
+service\impl\StudentBean.class
+service\impl\UserBean.class
+utilities\PasswordAuthentication.class
+service\StudentBeanLocal.class
+utilities\Credentials.class
+service\UserBeanLocal.class
+service\TopicBeanLocal.class
+service\impl\TopicBean.class
